@@ -11,7 +11,7 @@ Index    : 06
 # ---
 #
 #
-# You can access your individual OpenAI API Key and API Base URL through the Settings page in the Olympus Great Learning LMS - please refer to the document with instructions provided separately in order to do this.
+# You can access your individual OpenAI API Key and API Base URL 
 # ---
 
 API_KEY = '_____';
