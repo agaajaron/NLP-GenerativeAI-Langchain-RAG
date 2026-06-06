@@ -9,8 +9,8 @@ Index    : 08
 # ---
 
 # Importing the GPT-4 LLM and setting it up
-API_KEY = "gl-U2FsdGVkX1+E2fVRSm1LmnTdMR2KaOTfDzOXrkapr/bPxZkxtfkX3tXE27XsKOlY"
-OPENAI_API_BASE = "https://aibe.mygreatlearning.com/openai/v1"
+API_KEY = "apikey"
+OPENAI_API_BASE = "yourapibase"
 
 os.environ['OPENAI_API_KEY'] = API_KEY
 os.environ['OPENAI_API_BASE'] = OPENAI_API_BASE
